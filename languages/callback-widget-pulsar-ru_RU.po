@@ -1,0 +1,66 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Call me now\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/callback-widget-"
+"pulsar\n"
+"POT-Creation-Date: 2017-01-28 22:50+0200\n"
+"PO-Revision-Date: 2017-01-28 22:52+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: callback-widget-pulsar.php\n"
+"X-Poedit-SearchPath-1: page.php\n"
+
+#: callback-widget-pulsar.php:40
+msgid "Settings"
+msgstr "Настройки"
+
+#: callback-widget-pulsar.php:53
+msgid "Pulsar plugin settings"
+msgstr "Настройки плагина"
+
+#: callback-widget-pulsar.php:61
+msgid "Paste here script with tags"
+msgstr "Вставьте код скрипта"
+
+#: callback-widget-pulsar.php:69
+msgid "Enable script on site"
+msgstr "Отображать скрипт на сайте"
+
+#: callback-widget-pulsar.php:118
+msgid "Code must have a link to Pulsar API with your personal ID"
+msgstr ""
+"Код должен содержать ссылку на API проекта Pulsar с вашим личным "
+"идентификатором"
+
+#: page.php:8
+msgid "You do not have sufficient permissions to access this page."
+msgstr "У вас недостаточно прав для просмотра этой страницы"
+
+#. Plugin Name of the plugin/theme
+msgid "Callback widget Pulsar"
+msgstr "Callback widget Pulsar"
+
+#. Description of the plugin/theme
+msgid "Plugin add callback button for Pulsar project"
+msgstr "Добавляет кнопку обратной связи для проекта Pulsar"
+
+
+msgid "The quick connection button for the website"
+msgstr "Добавляет кнопку обратной связи для проекта Pulsar"
+
+#. Author of the plugin/theme
+msgid "Pulsar"
+msgstr "Pulsar"
+
+#. Author URI of the plugin/theme
+msgid "http://pulsarcallback.com/"
+msgstr "http://pulsarcallback.com/"
